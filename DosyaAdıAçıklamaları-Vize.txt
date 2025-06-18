@@ -1,0 +1,4 @@
+CloudMidterm_22290719.pdf vize açıklama dokümanı
+Açıklama videosu linki README'de aynı zamanda dosya olarak da ExpVideo.mp4 şeklinde ekledim
+main.ipynb programın jupyternotebook üzerinde python kodu
+mushrooms.csv kullanılan veri seti
