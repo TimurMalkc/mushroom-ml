@@ -1,5 +1,0 @@
-CloudMidterm_22290719.pdf vize açıklama dokümanı.
-CloudTümProjeler_22290719.pdf ekampüse yüklediğim tüm projeleri barındıran doküman.
-Açıklama videosu linki README'de aynı zamanda dosya olarak da ExpVideo.mp4 şeklinde ekledim.
-main.ipynb programın jupyternotebook üzerinde python kodu.
-mushrooms.csv kullanılan veri seti.
